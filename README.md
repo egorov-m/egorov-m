@@ -1,4 +1,4 @@
-### Hi there 👋
+![Welcome to my repository](./welcome-to-my-repository.svg)
 
 ![Snake animation](https://raw.githubusercontent.com/egorov-m/egorov-m/output/github-contribution-grid-snake.svg)
 
