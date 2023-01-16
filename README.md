@@ -2,12 +2,12 @@
 
 <div id="contacts" align="center">
   <span>
-    <a href="https://t.me/mikhailegorov_dev">
+    <a href="https://t.me/mikhailegorov_dev" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
   </span>
   <span>
-    <a href="mailto:m-5321e@yandex.com">
+    <a href="mailto:m-5321e@yandex.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </span>
@@ -39,8 +39,13 @@
   </span>
 </div>
 
-
-[![Profile views](https://hits.sh/github.com/egorov-m.svg?view=today-total&style=for-the-badge&label=Profile%20views&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik05MDAuNjkzIDg1My4zMzNoLTczNC43MkEzNy45NzMgMzcuOTczIDAgMCAxIDEyOCA4MTUuNDAzVjIwOC41OTdhMzcuOTczIDM3Ljk3MyAwIDEgMSA3NS45OSAwdjU2OC44NzVoNjk2LjcwM2EzNy45NzMgMzcuOTczIDAgMSAxIDAgNzUuODYxbS04OC42NjEtMTEzLjc5Mkg3MzZhMzcuOTczIDM3Ljk3MyAwIDAgMS0zNy45NzMtMzcuODg4VjQzNi4xNGMwLTIwLjk1IDE3LjAyNC0zNy45MzEgMzcuOTczLTM3LjkzMWg3Ni4wMzJhMzcuOTczIDM3Ljk3MyAwIDAgMSAzNy45NzMgMzcuOTczdjI2NS40NzJhMzcuOTczIDM3Ljk3MyAwIDAgMS0zNy45NzMgMzcuODg4bS0yMTUuMzM5IDBoLTc1Ljk4OWEzNy45NzMgMzcuOTczIDAgMCAxLTM3Ljk3My0zNy44ODhWMjg0LjQ2YTM3Ljk3MyAzNy45NzMgMCAwIDEgMzcuOTczLTM3Ljk3NGg3NS45OWEzNy45NzMgMzcuOTczIDAgMCAxIDM3Ljk3MyAzNy45NzR2NDE3LjE5NGEzNy45NzMgMzcuOTczIDAgMCAxLTM3Ljk3NCAzNy44ODhtLTIxNS4zMzggMGgtNzUuOTQ3YTM3Ljk3MyAzNy45NzMgMCAwIDEtMzguMDU5LTM3Ljg4OHYtNzUuODYxYTM3Ljk3MyAzNy45NzMgMCAwIDEgMzguMDE2LTM3Ljk3M2g3NS45OWEzNy45NzMgMzcuOTczIDAgMCAxIDM4LjAxNiAzNy45NzN2NzUuODYxYTM3Ljk3MyAzNy45NzMgMCAwIDEtMzcuOTc0IDM3Ljg4OCIvPjwvc3ZnPg%3D%3D)](https://hits.sh/github.com/egorov-m)
+<div align="center">
+  <span>
+    <a href="https://hits.sh/github.com/egorov-m" target="_blank">
+      <img src="https://hits.sh/github.com/egorov-m.svg?view=today-total&style=for-the-badge&label=Profile%20views&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik05MDAuNjkzIDg1My4zMzNoLTczNC43MkEzNy45NzMgMzcuOTczIDAgMCAxIDEyOCA4MTUuNDAzVjIwOC41OTdhMzcuOTczIDM3Ljk3MyAwIDEgMSA3NS45OSAwdjU2OC44NzVoNjk2LjcwM2EzNy45NzMgMzcuOTczIDAgMSAxIDAgNzUuODYxbS04OC42NjEtMTEzLjc5Mkg3MzZhMzcuOTczIDM3Ljk3MyAwIDAgMS0zNy45NzMtMzcuODg4VjQzNi4xNGMwLTIwLjk1IDE3LjAyNC0zNy45MzEgMzcuOTczLTM3LjkzMWg3Ni4wMzJhMzcuOTczIDM3Ljk3MyAwIDAgMSAzNy45NzMgMzcuOTczdjI2NS40NzJhMzcuOTczIDM3Ljk3MyAwIDAgMS0zNy45NzMgMzcuODg4bS0yMTUuMzM5IDBoLTc1Ljk4OWEzNy45NzMgMzcuOTczIDAgMCAxLTM3Ljk3My0zNy44ODhWMjg0LjQ2YTM3Ljk3MyAzNy45NzMgMCAwIDEgMzcuOTczLTM3Ljk3NGg3NS45OWEzNy45NzMgMzcuOTczIDAgMCAxIDM3Ljk3MyAzNy45NzR2NDE3LjE5NGEzNy45NzMgMzcuOTczIDAgMCAxLTM3Ljk3NCAzNy44ODhtLTIxNS4zMzggMGgtNzUuOTQ3YTM3Ljk3MyAzNy45NzMgMCAwIDEtMzguMDU5LTM3Ljg4OHYtNzUuODYxYTM3Ljk3MyAzNy45NzMgMCAwIDEgMzguMDE2LTM3Ljk3M2g3NS45OWEzNy45NzMgMzcuOTczIDAgMCAxIDM4LjAxNiAzNy45NzN2NzUuODYxYTM3Ljk3MyAzNy45NzMgMCAwIDEtMzcuOTc0IDM3Ljg4OCIvPjwvc3ZnPg%3D%3D" alt="Profile views">
+    </a>
+  </span>
+</div>
 
 <!--
 **egorov-m/egorov-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
