@@ -1,4 +1,10 @@
-![Welcome to my repository](./welcome-to-my-repository.svg)
+<div id="contacts" align="center">
+  <span>
+    <a href="https://github.com/egorov-m" target="_blank">
+      <img src="./welcome-to-my-repository.svg" alt="Welcome to my repository">
+    </a>
+  </span>
+</div>
 
 <div id="contacts" align="center">
   <span>
