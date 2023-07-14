@@ -19,13 +19,13 @@
   </span>
 </div>
 
-<div id="contribution" align="center">
+<!-- <div id="contribution" align="center">
   <span>
     <a href="https://github.com/egorov-m">
       <img src="https://raw.githubusercontent.com/egorov-m/egorov-m/output/github-contribution-grid-snake.svg" alt="Snake animation">
     </a>
   </span>
-</dib>
+</dib> -->
 
 <div align="center">
   <span>
